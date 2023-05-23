@@ -1,2 +1,6 @@
 # IsaacWiscox.github.io
-My first website
+My Website
+
+-- Isaac Wisniweski
+-- Isaacw@wiscox.com
+
