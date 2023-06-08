@@ -1,0 +1,29 @@
+
+
+body {
+    background-color: #fff9fb
+}
+
+
+top-banner {
+    src: url(Untitled.png);
+    width: auto;
+    height: auto;
+}
+
+content {
+    text-align: left;
+    margin: 0px auto;
+    width: 800px;
+    background-color: #252627;
+}
+
+header {
+    color: #252627;
+    text-align: right
+}
+
+header img {
+    width: 50%;
+    margin-left: auto;
+}
